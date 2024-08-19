@@ -58,3 +58,6 @@ https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u
 https://list.iptvcat.com/my_list/s/64e4e9058d89f724d89d0c84b45554c8.m3u8
 #EXTINF:-1 tvg-logo="", WOW TV 2
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", CCTV4
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
