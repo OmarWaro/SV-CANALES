@@ -38,15 +38,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/150px-Tigo_Sports_logo.svg.png" group-title="COSTA RICA", TIGO SPORTS
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343091
 
-
 #EXTINF:-1 group-title="varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , E! Entertainment  HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13485
-
-
-
 
 #EXTINF:-1 group-title="Camra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , jerusalen
 https://e1-na3.angelcam.com/cameras/79366/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3OTM2NiIsImRldmljZV9pZCI6Ijc5MzY2IiwidGltZSI6MTcyNDA1MzAyMjQ1OTExMSwidGltZW91dCI6MzYwMH0%3D%2E35e9994ce0cfe5bfdc0b1743a2e186a5050c1fc2c1bdbba09f80cf797595e806
 
 #EXTINF:-1 group-title="Camra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , chorros
 https://e1-na7.angelcam.com/cameras/79369/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3OTM2OSIsImRldmljZV9pZCI6Ijc5MzY5IiwidGltZSI6MTcyNDA1Mzk5NDI4NzcwNiwidGltZW91dCI6MzYwMH0%3D%2E9f7f012534bae41730199bc15844c2ef26aa4e1823bd0ed2e87850a8e47841d7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4m9NqP5/PORT.jpg",Jujutsu Kaisen 2
+https://bit.ly/3q1INfT
