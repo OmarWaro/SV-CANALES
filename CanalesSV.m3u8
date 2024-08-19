@@ -49,3 +49,6 @@ https://e1-na7.angelcam.com/cameras/79369/streams/hls/playlist.m3u8?token=eyJjYW
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4m9NqP5/PORT.jpg",Jujutsu Kaisen 2
 https://bit.ly/3q1INfT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4m9NqP5/PORT.jpg", CCTV1 CHINA
+https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS
