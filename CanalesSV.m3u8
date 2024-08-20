@@ -10,7 +10,7 @@ https://list.iptvcat.com/my_list/s/c99c795ea05f473651744ec6b38f1543.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="SV",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="SV", CANAL 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1558638904_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI0IDI6NDA6NDQgQU0maGFzaF92YWx1ZT1zaVprWm5UYWt4SnczZElRbDhnU09RPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w223576262_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI0IDM6MTM6MzkgUE0maGFzaF92YWx1ZT1mWEdIK0F6STJhWGFaREhzTWIvdTVBPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="SV",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFWyxgzr/radio-disney.png" group-title="SV",Canal 19
@@ -48,7 +48,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13485
 https://e1-na3.angelcam.com/cameras/79366/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3OTM2NiIsImRldmljZV9pZCI6Ijc5MzY2IiwidGltZSI6MTcyNDA1MzAyMjQ1OTExMSwidGltZW91dCI6MzYwMH0%3D%2E35e9994ce0cfe5bfdc0b1743a2e186a5050c1fc2c1bdbba09f80cf797595e806
 
 #EXTINF:-1 group-title="Camra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , chorros
-https://e1-na7.angelcam.com/cameras/79369/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3OTM2OSIsImRldmljZV9pZCI6Ijc5MzY5IiwidGltZSI6MTcyNDA1Mzk5NDI4NzcwNiwidGltZW91dCI6MzYwMH0%3D%2E9f7f012534bae41730199bc15844c2ef26aa4e1823bd0ed2e87850a8e47841d7
+https://e1-na7.angelcam.com/cameras/79369/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3OTM2OSIsImRldmljZV9pZCI6Ijc5MzY5IiwidGltZSI6MTcyNDE2Njg4MTUxMjE1MywidGltZW91dCI6MzYwMH0%3D%2E3dd1b07d6ea71824b4f6b639b63983ca06bfb996e4b4a4d7ce2ee4c43128a3b8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4m9NqP5/PORT.jpg",Jujutsu Kaisen 2
 https://bit.ly/3q1INfT
