@@ -51,6 +51,22 @@ https://list.iptvcat.com/my_list/s/64e4e9058d89f724d89d0c84b45554c8.m3u8
 #EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png", WOW TV ALTERNATIVA
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto TV - Anime & Gaming",Pluto TV - Pluto TV Anime
+https://jmp2.uk/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto TV - Anime & Gaming",Pluto TV - Naruto
+https://jmp2.uk/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+#EXTINF:-1 tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto TV - Anime & Gaming",Pluto TV - Naruto Shippuden
+https://jmp2.uk/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
+#EXTINF:-1 tvg-id="ESAJ4500019AM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20240117T032650SQUARE.png_20240117032651.png" group-title="Samsung TV Plus - Películas",Samsung TV Plus - Comedias - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ4500019AM.m3u8
+#EXTINF:-1 tvg-id="ESBC2700005EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" group-title="Samsung TV Plus - Películas",Samsung TV Plus - Películas Top - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESBC2700005EE.m3u8
+#EXTINF:-1 tvg-id="ESAJ4500020V7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png" group-title="Samsung TV Plus - Películas",Samsung TV Plus - Dramas - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ4500020V7.m3u8
+#EXTINF:-1 tvg-id="ESAJ45000181E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" group-title="Samsung TV Plus - Películas",Samsung TV Plus - Acción - Rakuten TV
+https://jmp2.uk/SamsungTVPlus/ESAJ45000181E.m3u8
+
+
 #EXTM3U
 #EXTINF:-1,AE Mundo
 http://190.60.37.154:45000/play/a03j/index.m3u8
