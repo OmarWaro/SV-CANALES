@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="SV",Canal 2
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="SV",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="SV",Canal 3
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="SV",Canal 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="SV",Canal 4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="SV",Canal 4
 https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="SV",Canal 4 Alterno
-https://list.iptvcat.com/my_list/s/c99c795ea05f473651744ec6b38f1543.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="SV",Canal 6
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="SV",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="SV", CANAL 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1919677445_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDI0IDg6MzM6MDEgUE0maGFzaF92YWx1ZT1QM25JVDU4ZnpMQmhhSXNBRGdtYWRnPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="SV",Canal 12
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="SV", CANAL 10
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/165215
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="SV",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="SV",Canal 19
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="SV",Canal 19
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/esGYn21.png" group-title="SV",Canal 21
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="SV",Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="SV",TCS+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="SV",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 
